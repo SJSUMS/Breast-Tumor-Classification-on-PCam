@@ -14,4 +14,4 @@ Identify if a cell image has high chances of being normal/abnormal.
 - [x] MobileNet-V2 @ Mavis Wang
 - [x] ResNet-50 @ Siying Wu
 
-### Results [Slide](https://github.com/SJSUMS/PCam/blob/main/PCam_slides.pdf)
+### Result [Slides](https://github.com/SJSUMS/Breast-Tumor-Classification-on-PCam/blob/main/PCam_slides.pdf)
